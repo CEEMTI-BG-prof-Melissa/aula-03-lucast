@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Bonito</title>
+</head>
+
+<body>
+    <div class="caixa">
+        <h1>Lista Ordenada</h1>
+        <ol>
+            <li><a href="#">Link carro</a></li>
+            <li><a href="#">Link Doido</a></li>
+        </ol>
+
+        <h1>Lista Não Ordenada</h1>
+        <ul>
+            <li><a href="#">Link carro</a></li>
+            <li><a href="#">Link Doido</a></li>
+        </ul>
+
+        <h1>Imagem Do carro</h1>
+        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.remaza.com.br%2Fnoticias%2Fmarcas-de-carro&psig=AOvVaw3_6GXpRnE1exZrnYukjS2X&ust=1746099830781000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNinhvPW_4wDFQAAAAAdAAAAABAE
+            alt="Imagem do carro">
+    </div>
+</body>
+
+</html>
